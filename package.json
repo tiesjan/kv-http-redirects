@@ -1,0 +1,9 @@
+{
+    "name": "kv-http-redirects",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "typescript": "^5.5.2",
+        "wrangler": "^4.45.0"
+    }
+}
